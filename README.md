@@ -1,1 +1,1 @@
-# smart-vechile-managment-system-
+Covid-19 prediction model
